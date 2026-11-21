@@ -3171,6 +3171,70 @@
 <details>
 <summary><b><strong>Xiaomi Devices</strong></b></summary>
 
+## Xiaomi Mi 10
+
+**State:** Active <br>
+**Codename:** umi
+
+**Contributors:** [JopangJovan](https://github.com/JopangJovan/)
+
+### UEFI Status
+
+| Feature            | Description | State |
+|:-------------------|:------------|:-----:|
+| Display            |             | ✅    |
+| Internal Storage   |             | ✅    |
+| Side Buttons       |             | ✅    |
+| USB Host Mode      |             | ✅    |
+| USB Device Mode    |             | ✅    |
+| USB Power Delivery |             | ❌    |
+| Mass Storage       |             | ❌    |
+| Windows Boot       |             | ✅    |
+| Linux Boot         |             | ❔    |
+
+### OS Status
+
+<table>
+<tr><th>Windows</th></tr>
+<tr><td>
+
+| Feature               | Description          | State |
+|:----------------------|:---------------------|:-----:|
+| Internal Storage      |                      | ✅    |
+| Side Buttons          | Need Windows Drivers | ✅    |
+| Proximity Sensor      |                      | ❌    |
+| Light Sensor          |                      | ❌    |
+| Accelerometer Sensor  |                      | ❌    |
+| Compass Sensor        |                      | ❌    |
+| Gyroscope Sensor      |                      | ❌    |
+| Barometer Sensor      |                      | ❌    |
+| Geomagnetic Sensor    |                      | ❌    |
+| Fingerprint Sensor    |                      | ❌    |
+| Hall Sensor           |                      | ❌    |
+| Gravity Sensor        |                      | ❌    |
+| NFC Sensor            |                      | ❌    |
+| Temperature Sensor    |                      | ❌    |
+| Battery               | Need Windows Drivers | ✅    |
+| USB Host Mode         |                      | ✅    |
+| USB Device Mode       |                      | ✅    |
+| USB Power Delivery    |                      | ❌    |
+| Charging              | Need Windows Drivers | ✅    |
+| WLAN                  | Need Windows Drivers | ✅    |
+| CPU                   |                      | ✅    |
+| Touchscreen           | Need Windows Drivers | ✅    |
+| Bluetooth             |                      | ❌    |
+| GPS                   |                      | ❌    |
+| Speakers              | Need Windows Drivers | ✅    |
+| Microphone            |                      | ❌    |
+| GPU                   |                      | ❌    |
+| Camera                |                      | ❌    |
+| Mobile Data           |                      | ❌    |
+| Display               |                      | ✅    |
+| Vibration             |                      | ❌    |
+
+</td></tr>
+</table>
+
 ## Xiaomi Pad 6
 
 <img align="right" src="Resources/Pictures/Xiaomi-Pad-6.png" width="500" alt="Preview">
