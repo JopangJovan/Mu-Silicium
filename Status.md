@@ -3225,7 +3225,7 @@
 | WLAN                  |             | ✅    |
 | CPU                   |             | ✅    |
 | Touchscreen           |             | ✅    |
-| Bluetooth             |             | ❌    |
+| Bluetooth             |             | ✅    |
 | GPS                   |             | ❌    |
 | Speakers              |             | ✅    |
 | Microphone            |             | ❌    |
