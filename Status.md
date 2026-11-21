@@ -3198,39 +3198,42 @@
 <tr><th>Windows</th></tr>
 <tr><td>
 
-| Feature               | Description          | State |
-|:----------------------|:---------------------|:-----:|
-| Internal Storage      |                      | ✅    |
-| Side Buttons          | Need Windows Drivers | ✅    |
-| Proximity Sensor      |                      | ❌    |
-| Light Sensor          |                      | ❌    |
-| Accelerometer Sensor  |                      | ❌    |
-| Compass Sensor        |                      | ❌    |
-| Gyroscope Sensor      |                      | ❌    |
-| Barometer Sensor      |                      | ❌    |
-| Geomagnetic Sensor    |                      | ❌    |
-| Fingerprint Sensor    |                      | ❌    |
-| Hall Sensor           |                      | ❌    |
-| Gravity Sensor        |                      | ❌    |
-| NFC Sensor            |                      | ❌    |
-| Temperature Sensor    |                      | ❌    |
-| Battery               | Need Windows Drivers | ✅    |
-| USB Host Mode         |                      | ✅    |
-| USB Device Mode       |                      | ✅    |
-| USB Power Delivery    |                      | ❌    |
-| Charging              | Need Windows Drivers | ✅    |
-| WLAN                  | Need Windows Drivers | ✅    |
-| CPU                   |                      | ✅    |
-| Touchscreen           | Need Windows Drivers | ✅    |
-| Bluetooth             |                      | ❌    |
-| GPS                   |                      | ❌    |
-| Speakers              | Need Windows Drivers | ✅    |
-| Microphone            |                      | ❌    |
-| GPU                   |                      | ❌    |
-| Camera                |                      | ❌    |
-| Mobile Data           |                      | ❌    |
-| Display               |                      | ✅    |
-| Vibration             |                      | ❌    |
+> [!IMPORTANT]
+> Needs [Windows Drivers](https://github.com/JopangJovan/windows_oem_xiaomi_umi).
+
+| Feature               | Description | State |
+|:----------------------|:------------|:-----:|
+| Internal Storage      |             | ✅    |
+| Side Buttons          |             | ✅    |
+| Proximity Sensor      |             | ❌    |
+| Light Sensor          |             | ❌    |
+| Accelerometer Sensor  |             | ❌    |
+| Compass Sensor        |             | ❌    |
+| Gyroscope Sensor      |             | ❌    |
+| Barometer Sensor      |             | ❌    |
+| Geomagnetic Sensor    |             | ❌    |
+| Fingerprint Sensor    |             | ❌    |
+| Hall Sensor           |             | ❌    |
+| Gravity Sensor        |             | ❌    |
+| NFC Sensor            |             | ❌    |
+| Temperature Sensor    |             | ❌    |
+| Battery               |             | ✅    |
+| USB Host Mode         |             | ✅    |
+| USB Device Mode       |             | ✅    |
+| USB Power Delivery    |             | ❌    |
+| Charging              |             | ✅    |
+| WLAN                  |             | ✅    |
+| CPU                   |             | ✅    |
+| Touchscreen           |             | ✅    |
+| Bluetooth             |             | ❌    |
+| GPS                   |             | ❌    |
+| Speakers              |             | ✅    |
+| Microphone            |             | ❌    |
+| GPU                   |             | ❌    |
+| Camera                |             | ❌    |
+| Mobile Data           |             | ❌    |
+| Display               |             | ✅    |
+| Vibration             |             | ❌    |
 
 </td></tr>
 </table>
