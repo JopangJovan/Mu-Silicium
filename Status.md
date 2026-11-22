@@ -3206,11 +3206,11 @@
 | Internal Storage      |             | ✅    |
 | Side Buttons          |             | ✅    |
 | Proximity Sensor      |             | ❌    |
-| Light Sensor          |             | ❌    |
-| Accelerometer Sensor  |             | ❌    |
+| Light Sensor          |             | ✅    |
+| Accelerometer Sensor  | Auto-Rotation | ✅    |
 | Compass Sensor        |             | ❌    |
-| Gyroscope Sensor      |             | ❌    |
-| Barometer Sensor      |             | ❌    |
+| Gyroscope Sensor      |             | ✅    |
+| Barometer Sensor      |             | ✅    |
 | Geomagnetic Sensor    |             | ❌    |
 | Fingerprint Sensor    |             | ❌    |
 | Hall Sensor           |             | ❌    |
@@ -3232,7 +3232,7 @@
 | GPU                   |             | ❌    |
 | Camera                |             | ❌    |
 | Mobile Data           |             | ❌    |
-| Display               |             | ✅    |
+| Display               | Brightness, Night Light, Rotation | ✅    |
 | Vibration             |             | ❌    |
 
 </td></tr>
