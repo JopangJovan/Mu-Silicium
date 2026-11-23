@@ -3211,7 +3211,7 @@
 | Compass Sensor        |             | ❌    |
 | Gyroscope Sensor      |             | ✅    |
 | Barometer Sensor      |             | ✅    |
-| Geomagnetic Sensor    |             | ❌    |
+| Geomagnetic Sensor    | Magnetometer | ✅    |
 | Fingerprint Sensor    |             | ❌    |
 | Hall Sensor           |             | ❌    |
 | Gravity Sensor        |             | ❌    |
