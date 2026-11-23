@@ -3207,11 +3207,11 @@
 | Side Buttons          |             | ✅    |
 | Proximity Sensor      |             | ❌    |
 | Light Sensor          |             | ✅    |
-| Accelerometer Sensor  | Auto-Rotation | ✅    |
+| Accelerometer Sensor  |             | ✅    |
 | Compass Sensor        |             | ❌    |
 | Gyroscope Sensor      |             | ✅    |
 | Barometer Sensor      |             | ✅    |
-| Geomagnetic Sensor    | Magnetometer | ✅    |
+| Geomagnetic Sensor    |             | ✅    |
 | Fingerprint Sensor    |             | ❌    |
 | Hall Sensor           |             | ❌    |
 | Gravity Sensor        |             | ❌    |
@@ -3232,7 +3232,7 @@
 | GPU                   |             | ❌    |
 | Camera                |             | ❌    |
 | Mobile Data           |             | ❌    |
-| Display               | Brightness, Night Light, Rotation | ✅    |
+| Display               |             | ✅    |
 | Vibration             |             | ❌    |
 
 </td></tr>
